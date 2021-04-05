@@ -3,6 +3,8 @@
 Modular status monitor for dwm written in C with features including
 signaling, clickability, cursor hinting and color.
 
+This is my build of it.
+
 # Usage
 
 `dwmblocks`
