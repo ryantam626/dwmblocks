@@ -28,4 +28,4 @@ else
     esac
 fi
 
-printf "\u001b[38;5;3m$i\u001b[0m $battery%%"
+printf "\x0f$i\x0b $battery%%"
