@@ -2,4 +2,4 @@
 
 speeds=$(netspeed)
 i="N"
-printf "\x0f$i\x0b $speed"
+printf "\x0e$speeds\x0b"

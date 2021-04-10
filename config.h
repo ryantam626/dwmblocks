@@ -47,8 +47,8 @@ static Block blocks[] = {
         { PATH("cpu_temp.sh"),          NULL,                           5,             1},
         { PATH("mem.sh"),               NULL,                           5,             1},
         { PATH("power.sh"),             NULL,                           30,            1},
-        { PATH("datetime.sh"),          NULL,                           1,             1},
-        { PATH("netspeed.sh"),          NULL,                           5,             1},
         { PATH("wifi.sh"),              NULL,                           1,             1},
+        { PATH("netspeed.sh"),          NULL,                           5,             1},
+        { PATH("datetime.sh"),          NULL,                           1,             1},
         { NULL } /* just to mark the end of the array */
 };
